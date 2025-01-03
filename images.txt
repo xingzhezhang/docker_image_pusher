@@ -1,1 +1,1 @@
-k8s.gcr.io/ingress-nginx/controller:v1.2.0
+multiarch/qemu-user-static:latest
