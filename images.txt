@@ -1,1 +1,1 @@
-multiarch/qemu-user-static:latest
+moby/buildkit:buildx-stable-1
